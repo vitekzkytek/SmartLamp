@@ -1,7 +1,6 @@
 # Smart Lamp Golemio
 sometimes running at: http://lampa.vitekzkytek.cz/
 ### Run server:
-in the virtual environment:
 `python3 -m venv lamp_env`
 
 `source lamp_env/bin/activate`
